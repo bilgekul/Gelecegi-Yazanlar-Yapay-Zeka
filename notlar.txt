@@ -2,3 +2,18 @@ AI tanım : Bir bilgisayarın veya bilgisayar kontrolündeki
 robotun çeşitli faaliyetleri zeki canlılara benzer 
 şekilde yerine getirme kabiliyetidir.
 
+Betimleyici analitik: Verilerin özetlenmesi ve anlaşılması amacıyla kullanılır. 
+Bu tür analitik, verilerin geçmiş durumunu ve eğilimlerini göstermeye yöneliktir. 
+Satış sayılarının aylara göre görselleştirilmesi, geçmiş performansı anlama ve mevcut durumu inceleme amacı taşır.
+
+Normatif analitik:Belirli bir hedefe ulaşmak için gereken en iyi yol veya yöntemleri belirlemek amacıyla kullanılır. 
+Bu tür analitik, tavsiyelerde bulunmak veya kararlar almak için kullanılır ve istenilen sonuca nasıl ulaşılacağını belirlemeye çalışır. 
+
+Teşhis/Tanı Analitiği : Teşhis analitiği, mevcut verileri inceleyerek sorunların nedenlerini tanımlama ve anlama amacı taşır. 
+Şirket, gelirlerdeki düşüşün nedenlerini bu analitik türüyle belirleyebilir ve ardından bu nedenlere yönelik çözüm stratejileri geliştirebilir.
+
+Tahminsel analitik : Gelecekteki olayları tahmin etmeyi amaçlar ve bir iş problemi sonrasında gelecekte ne olabileceği hakkında bilgi sağlamak için kullanılır. 
+Bu tür analitik, veri bilimcilerin verileri kullanarak gelecekteki eğilimleri, davranışları veya sonuçları tahmin etmelerine yardımcı olur.
+
+Yönergeli Analitik, bir sistem veya yazılım tarafından, bir dizi veri ve kurallara dayalı olarak veri analizi ve karar alma sürecinin otomatik olarak yönlendirildiği bir analitik yaklaşımıdır. 
+Bu yaklaşım, karmaşık veri setlerini analiz etmek ve iş süreçlerini optimize etmek için kullanılır.
