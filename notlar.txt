@@ -1,0 +1,4 @@
+AI tanım : Bir bilgisayarın veya bilgisayar kontrolündeki 
+robotun çeşitli faaliyetleri zeki canlılara benzer 
+şekilde yerine getirme kabiliyetidir.
+
